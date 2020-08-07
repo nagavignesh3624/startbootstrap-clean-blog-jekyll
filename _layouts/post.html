@@ -32,7 +32,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-        <img src="{{ page.image }}" alt="{{ page.imageTitle }}" title="{{ page.imageTitle }}" width="100%">
+        <img src="{{ page.image | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ page.imageTitle }}" title="{{ page.imageTitle }}" width="100%">
         {{ content }}
 
         <hr>
