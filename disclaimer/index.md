@@ -12,8 +12,8 @@ gerasoft.com is a participant in the Amazon Services LLC Associates Program, an 
 
 We have made a commitment to do our best to comply with the new FTC guidelines, and regulations concerning Product reviews and customer testimonials. Therefore, we feel it necessary to make the following statement.
 
-    The intent and purpose of this site are to provide consumers information and additional resources to help them make informed buying decisions.
-    Please be advised that this site may generate commission from third party retailers with the sale of products and/or services.
+The intent and purpose of this site are to provide consumers information and additional resources to help them make informed buying decisions.
+Please be advised that this site may generate commission from third party retailers with the sale of products and/or services.
 
 ## Testimonials
 
