@@ -5,6 +5,7 @@ background: 'img/background.jpg'
 image: 'img/prime-Day-Quiz-Asus-Gaming-labtop.jpeg'
 imageTitle: 'prime Day Quiz Asus Gaming labtop'
 title: Amazon Prime Day Quiz Answers – Win Asus Gaming Laptop
+description: Amazon Prime Day Quiz Answers - Win Asus Gaming Laptop by Answering Simple Question. Get amazon Prime Day Quiz answers - GeraSoft.com
 ---
 
 ## Details of Contest :-
