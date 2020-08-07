@@ -31,6 +31,7 @@ Get Amazon Quiz Time Contest answers for Today 28 July 2020 – Win Samsonite Po
 **Question 5 :** The Court of Arbitration for Sport recently overturned which team’s 2 year suspension from European Football tournaments?  
 **Ans :- Manchester City FC**
 
+<hr>
 ## Amazon Quiz Answers Today 27 July 2020 – Win Rs.50,000 – Answers
 **Question 1 :** PM SVAnidhi is a centrally sponsored scheme to help whom?  
 **Ans :- Street Vendors**
