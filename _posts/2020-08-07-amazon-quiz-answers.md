@@ -1,8 +1,8 @@
 ---
 layout: post
-permalink: /amazon-quiz-answers/
-background: '/img/background.jpg'
-image: '/img/amazon-quiz-today-28.jpeg'
+permalink: amazon-quiz-answers/
+background: 'img/background.jpg'
+image: 'img/amazon-quiz-today-28.jpeg'
 imageTitle: 'Amazon Quiz Today 28'
 title: Amazon Quiz Answers Today 28 July 2020 [🤑 Win Prize 🤑]
 ---
