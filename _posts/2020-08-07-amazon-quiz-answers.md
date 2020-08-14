@@ -5,9 +5,10 @@ background: 'img/background.jpg'
 image: 'img/amazon-quiz-today-28.jpeg'
 imageTitle: 'Amazon Quiz Today 28'
 title: Amazon Quiz Answers Today 28 July 2020 [🤑 Win Prize 🤑]
+description: Get Amazon Quiz Time Contest answers for Today 28 July 2020 – Win Samsonite Polycarbonate suitcase – Get answers for all question to Win Prize
 ---
 
-Get Amazon Quiz Time Contest answers for Today 28 July 2020 – Win Samsonite Polycarbonate suitcase – Get answers for all question to Win Prize
+
 
 ## How To Play
 * Download Amazon App from App Store and Sign in.
@@ -16,6 +17,7 @@ Get Amazon Quiz Time Contest answers for Today 28 July 2020 – Win Samsonite Po
 * Answer all the questions correctly to enter into a lucky draw.
 
 ## Amazon Quiz Answers Today 28 July 2020 – Win Samsonite Polycarbonate suitcase – Answers
+
 **Question 1 :** A very rare ‘Golden Tabby’ tiger has recently been spotted in which National Park?  
 **Ans :- Kaziranga National Park**
 
